@@ -1,2 +1,3 @@
-# HospitalManagementSystem
-SQL Database implementation of Hospital Management workflow
+# Hospital Management System
+
+
