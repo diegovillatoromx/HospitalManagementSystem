@@ -24,9 +24,10 @@ The Hospital Management System is implemented in a mid-sized hospital that serve
 * **Feedback and Improvement**: Collect and analyze patient feedback to continually improve the quality of care and hospital services.
   
 ### Key Features
-Patient Records: Comprehensive management of patient details, including emergency contacts, insurance information, and medical history.
-Staff and Departments: Detailed records of hospital staff, their qualifications, departmental assignments, and payroll details.
-Appointments and Scheduling: Efficient management of patient appointments with doctors and other medical staff.
-Billing and Payments: Accurate billing and payment tracking, including room charges, test costs, and other hospital services.
-Lab Test Management: Detailed recording and management of lab screenings and test results.
-Feedback System: Collection and analysis of patient feedback to ensure continuous improvement in hospital services.
+
+* **Patient Records**: Comprehensive management of patient details, including emergency contacts, insurance information, and medical history.
+* **Staff and Departments**: Detailed records of hospital staff, their qualifications, departmental assignments, and payroll details.
+* **Appointments and Scheduling**: Efficient management of patient appointments with doctors and other medical staff.
+* **Billing and Payments**: Accurate billing and payment tracking, including room charges, test costs, and other hospital services.
+* **Lab Test Management**: Detailed recording and management of lab screenings and test results.
+* **Feedback System**: Collection and analysis of patient feedback to ensure continuous improvement in hospital services.
