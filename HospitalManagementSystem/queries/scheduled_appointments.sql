@@ -1,4 +1,4 @@
-SELECT 
+SELECT  
     d.Doctor_ID,
     d.Emp_ID,
     s.Emp_FName,
