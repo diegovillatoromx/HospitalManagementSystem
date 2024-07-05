@@ -5,7 +5,7 @@ CREATE DATABASE HospitalManagementSystem;
 USE HospitalManagementSystem;
 
 -- Create the Patient Table
-CREATE TABLE Patient (
+CREATE TABLE Patient ( 
     Patient_ID INT NOT NULL,
     Patient_FName VARCHAR(20) NOT NULL,
     Patient_LName VARCHAR(20) NOT NULL,
