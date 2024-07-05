@@ -5,4 +5,4 @@ The Hospital Management System (HMS) is designed to streamline and optimize the 
 
 ## EER Diagram
 
-![EER Diagram](https://github.com/diegovillatoromx/online-grocery-db-design/blob/main/online-grocery-db-design/diagrams/EER.png)
+![EER Diagram](https://github.com/diegovillatoromx/HospitalManagementSystem/blob/main/HospitalManagementSystem/diagrams/EER.png)
