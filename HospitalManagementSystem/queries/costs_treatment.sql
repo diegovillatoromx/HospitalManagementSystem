@@ -1,4 +1,4 @@
-SELECT 
+SELECT  
     p.Patient_ID,
     p.Patient_FName,
     p.Patient_LName,
