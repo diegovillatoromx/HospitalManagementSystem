@@ -1,4 +1,4 @@
-SELECT 
+SELECT  
     f.Staff_ID,
     s.Emp_FName,
     s.Emp_LName,
