@@ -1,7 +1,7 @@
 -- Create the database  
 CREATE DATABASE HospitalManagementSystem;
 
--- Use the database
+-- Use the database 
 USE HospitalManagementSystem;
 
 -- Create the Patient Table
