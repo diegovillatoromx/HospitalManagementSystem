@@ -1,4 +1,4 @@
-SELECT  
+SELECT   
     COUNT(*) AS Total_Readmissions
 FROM 
     Patient p1
