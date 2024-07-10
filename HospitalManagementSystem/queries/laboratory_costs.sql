@@ -1,4 +1,4 @@
-SELECT  
+SELECT   
     ls.Test_Type,
     COUNT(ls.Lab_ID) AS Total_Tests,
     SUM(ls.Test_Cost) AS Total_Cost
